@@ -12,7 +12,7 @@ public class TelaApagar extends JFrame {
 	private JPanel contentPane;
 
 	/**
-	 * Launch the application.
+	 * Executa Janela Apagar
 	 */
 	public static void main(String[] args) {
 		EventQueue.invokeLater(new Runnable() {
